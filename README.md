@@ -1,5 +1,5 @@
 
-# Nexus - Sistema de Gestão Corporativa e Autenticação
+# Sistema de Gestão Corporativa e Autenticação
 
 Sistema backend desenvolvido em **FastAPI** para gerenciamento de funcionários e controle de acesso corporativo, com foco em segurança de dados sensíveis (criptografia de CPFs e hashing seguro de senhas).
 
